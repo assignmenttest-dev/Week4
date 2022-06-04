@@ -1,0 +1,75 @@
+{
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {
+                "collapsed": true
+            },
+            "source": "# "My Jupyter Notebook on IBM Watson Studio""
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "<b> Fernanda Alves da Costa </b> \n\Data Analyst "
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "I am interested in Data Science,since it's important for my future and belongs to my aspirations. The course has given me good chances_"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "### My code should show the words  \"data Science\":"
+        },
+        {
+            "cell_type": "code",
+            "execution_count": 9,
+            "metadata": {
+                "scrolled": true
+            },
+            "outputs": [
+                {
+                    "name": "stdout",
+                    "output_type": "stream",
+                    "text": 1+1\n"
+                }
+            ],
+            "source": "import math                #importing math for math.ceil() function (rounding up).\nData Science         # 1+1\nCourseLength = 10     
+            # Final week\nMyPace = 4                 # the result shows how many weeks you need to finish the course \nTotalFee = math.ceil(CourseLength/MyPace)*MonthlyFee # counting the fee\nprint('For Data Science course you will learn several programming languages',Javascript,'$.')"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "Because: \n1. I will get a good certificate for my career\n2. It will be important \n\nI think it is sufficient\n***\nTo see how many weeks, run this code:\n```python\nimport math                #importing math for math.ceil() function (rounding up).\nMonthlyFee = 38            # monthly fee in USD\nCourseLength = 11          # the result shows how many weeks you need to finish the course\nMyPace =4                 # the result shows how many weeks you need to finish the course\nTotalFee = math.ceil(CourseLength/MyPace)*MonthlyFee # counting the fee\nprint('the result shows how many weeks you need to finish the course',TotalWeeks,'$.') # output the values.\n\n```\n\n* Do it\n   \n   `4 weeks`\n   \n   \n* Here is the link to course: [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science \"Enroll\")\n 
+        },
+        {
+            "cell_type": "code",
+            "execution_count": null,
+            "metadata": {},
+            "outputs": [],
+            "source": ""
+        }
+    ],
+    "metadata": {
+        "kernelspec": {
+            "display_name": "Python 3.6",
+            "language": "python",
+            "name": "python3"
+        },
+        "language_info": {
+            "codemirror_mode": {
+                "name": "ipython",
+                "version": 3
+            },
+            "file_extension": ".py",
+            "mimetype": "text/x-python",
+            "name": "python",
+            "nbconvert_exporter": "python",
+            "pygments_lexer": "ipython3",
+            "version": "3.6.9"
+        }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 1
+}
